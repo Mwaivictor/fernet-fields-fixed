@@ -1,4 +1,4 @@
- from .fields import (
+from .fields import (
     EncryptedField,
     EncryptedTextField,
     EncryptedCharField,
